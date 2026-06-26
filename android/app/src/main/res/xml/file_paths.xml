@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- App documents directory: where the extracted package lives -->
+    <files-path name="app_files" path="." />
+    <!-- External cache for temp decrypted files -->
+    <cache-path name="cache" path="." />
+    <!-- System temp directory -->
+    <external-cache-path name="external_cache" path="." />
+</paths>
