@@ -16,7 +16,6 @@ dependencies:
   webview_flutter_wkwebview: ^3.13.0
 
   # Networking & file download
-  dio: ^5.4.3
   http: ^1.2.1
 
   # File storage & paths
@@ -27,9 +26,6 @@ dependencies:
   pointycastle: ^3.9.1
   convert: ^3.1.1
   crypto: ^3.0.3
-
-  # Permission
-  permission_handler: ^11.3.1
 
   # State & utilities
   flutter_bloc: ^8.1.5
